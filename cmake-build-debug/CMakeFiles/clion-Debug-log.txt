@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/krelar/Documents/Code/electricity_meter_detection -B /Users/krelar/Documents/Code/electricity_meter_detection/cmake-build-debug
+-- Found OpenCV: /opt/homebrew/Cellar/opencv/4.11.0_1 (found version "4.11.0")
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/krelar/Documents/Code/electricity_meter_detection/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/krelar/Documents/Code/electricity_meter_detection/cmake-build-debug/CMakeFiles/electricity_meter_detection.dir
+/Users/krelar/Documents/Code/electricity_meter_detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/krelar/Documents/Code/electricity_meter_detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
